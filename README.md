@@ -2,7 +2,7 @@
 
 
 
-### Hi there, I am Yash So 👋
+### Hi there, I am Yash Sonara 👋
 [![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-sonara-272979247/)](https://www.linkedin.com/in/yash-sonara-272979247/)
 [![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashsonara35@gmail.com)](mailto:yashsonara35@gmail.com) 
 
