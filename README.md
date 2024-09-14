@@ -1,9 +1,8 @@
 
 ### Hi there, I am Yash Sonara 👋
 [![Linkedin Badge](https://img.shields.io/badge/-yashsonara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-sonara-272979247/)](https://www.linkedin.com/in/yash-sonara-272979247/)
-[![Gmail Badge](https://img.shields.io/badge/-yashsonara35@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashsonara35@gmail.com)](mailto:yashsonara35@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-yashsonara35@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashsonara35@gmail.com)] 
 
-[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajaprerak@gmail.com)](mailto:rajaprerak@gmail.com) 
 
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
