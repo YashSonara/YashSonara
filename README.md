@@ -6,7 +6,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-yashsonara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-sonara-272979247/)](https://www.linkedin.com/in/yash-sonara-272979247/)
 [![Gmail Badge](https://img.shields.io/badge/-yashsonara35@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashsonara35@gmail.com)](mailto:yashsonara35@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
