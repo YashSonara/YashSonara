@@ -1,6 +1,3 @@
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
-
-
 
 ### Hi there, I am Yash Sonara 👋
 [![Linkedin Badge](https://img.shields.io/badge/-yashsonara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-sonara-272979247/)](https://www.linkedin.com/in/yash-sonara-272979247/)
